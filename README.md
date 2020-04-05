@@ -3,3 +3,6 @@ It consists of all modules that timetable management can hold. • Examinable co
 
 extract the ttms.sql file through xampp
 once extracted run the index file on to you system
+
+paste all the files in c:/xampp/htdocs/ttms folder. 
+create database using localhost/phpmyadmin and import the sql file. start with your project.
